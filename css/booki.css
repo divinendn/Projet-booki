@@ -358,7 +358,7 @@ input {
     width: 208px;
     object-fit: cover;
 }
-.actimg--h263 {
+.actimg:nth-child() {
     height: 263px;
 }
 .actimg--h123 {
